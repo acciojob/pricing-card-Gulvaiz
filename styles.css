@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.main{
+	width:200px;
+	padding: 20px;
+	background-color: beige;
+	box-shadow: 0 0 10px grey;
+}
+img{
+	width: 180px;
+}
+button{
+	padding: 20px;
+	background-color:red;
+	color:white;
+	border-radius: 10px
+}
